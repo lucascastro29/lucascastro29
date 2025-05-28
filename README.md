@@ -1,6 +1,6 @@
 ## ¡Hola! 👋 🚀
 <p align="center">
-  <img src="https://github.com/lucascastro29.png" width="150" height="150" alt="Lucas Castro" style="border-radius: 50%;"/>
+  <img src="https://github.com/lucascastro29/imagen_yo.png" width="150" height="150" alt="Lucas Castro" style="border-radius: 50%;"/>
 </p>
 Soy un Analista IT y desarrollador de software apasionado por la automatización y la tecnología inteligente. Disfruto crear soluciones que simplifiquen procesos, utilizando inteligencia artificial, computer vision y herramientas de desarrollo de software.
 

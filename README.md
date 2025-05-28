@@ -20,7 +20,7 @@ Soy un Analista IT y desarrollador de software apasionado por la automatización
 ### 🤝 Estoy abierto a:
 - Colaboraciones en proyectos de IA y automatización.
 - Desarrollo web con tecnologías modernas.
-- Nuevas ideas que involucren mejoras, automatización y e
+- Nuevas ideas que involucren mejoras, automatización y implementar nuevas ideas.
 
 ### 📫 Cómo contactarme:
 Puedes encontrarme por aquí en GitHub o en [LinkedIn](https://www.linkedin.com/in/lucas-castro-7b4003219/).

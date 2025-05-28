@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/lucascastro29/lucascastro29/blob/main/Yo_imagen.png?"  alt="Lucas Castro" />
+  <img src="https://github.com/lucascastro29/lucascastro29/blob/main/Yo_imagen.png?" width="75%" alt="Lucas Castro" />
 </p>
 ## ¡Hola! 👋 🚀
 Soy un Analista IT y desarrollador de software apasionado por la automatización y la tecnología inteligente. Disfruto crear soluciones que simplifiquen procesos, utilizando inteligencia artificial, computer vision y herramientas de desarrollo de software.

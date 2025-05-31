@@ -7,6 +7,11 @@ Soy un Analista IT y desarrollador de software apasionado por la automatización
 - 🧠 **Inteligencia Artificial y Automatización**  
   Trabajo principalmente con **Python**, aplicando **machine learning**, **OpenCV**, **YOLO** y generación de imágenes por IA.
 
+
+- 🚀 **Desarrollo de Software**  
+  Experiencia en **javascript**, **TypeScript**, **Node**, **Python**, **C++**, **Git**, **Github**, etc.  
+  También utilizo **Node-RED** para crear aplicaciones basadas en flujos visuales.
+
 - 🌐 **Desarrollo Web**  
   Experiencia en **Next.js**, **TypeScript**, **Node.js**, **Vercel**, **PHP**, **SQL**, etc.  
   También utilizo **Node-RED** para crear aplicaciones basadas en flujos visuales.
@@ -25,4 +30,4 @@ Soy un Analista IT y desarrollador de software apasionado por la automatización
 ### 📫 Cómo contactarme:
 Puedes encontrarme por aquí en GitHub o en [LinkedIn](https://www.linkedin.com/in/lucas-castro-7b4003219/).
 
-¡Gracias por visitar mi perfil! 🚀
+¡Gracias por visitar mi perfil! 

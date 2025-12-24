@@ -5,7 +5,7 @@ Soy un Analista IT y desarrollador de software apasionado por la automatización
 
 ### 💻 Tecnologías con las que trabajo:
 - 🧠 **Inteligencia Artificial y Automatización**  
-  Trabajo principalmente con **Python**, aplicando **machine learning**, **OpenCV**, **YOLO** y generación de imágenes por IA.
+  Trabajo principalmente con **Python**, aplicando **machine learning**, **Computer Vision con OpenCV**, **YOLO** y generación de imágenes por IA.
 
 
 - 🚀 **Desarrollo de Software**  
@@ -24,7 +24,7 @@ Soy un Analista IT y desarrollador de software apasionado por la automatización
 
 ### 🤝 Estoy abierto a:
 - Colaboraciones en proyectos de IA y automatización.
-- Desarrollo web con tecnologías modernas.
+- Desarrollo web y de aplicaciones interesantes.
 - Nuevas ideas que involucren mejoras, automatización y implementar nuevas ideas.
 
 ### 📫 Cómo contactarme:

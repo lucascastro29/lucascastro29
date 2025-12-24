@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/lucascastro29/lucascastro29/blob/main/Yo_imagen.png?raw=true" width="75%" height="100%" alt="Lucas Castro" />
 </p>
-Soy un Analista IT y desarrollador de software apasionado por la automatización y la tecnología inteligente. Disfruto crear soluciones que simplifiquen procesos, utilizando inteligencia artificial, computer vision y herramientas de desarrollo de software.
+Soy un Analista IT y desarrollador de software apasionado por la automatización y la tecnología inteligente. Disfruto crear soluciones que simplifiquen y/o mejoren procesos, aplicaciones, computer vision y herramientas de desarrollo de software.
 
 ### 💻 Tecnologías con las que trabajo:
 - 🧠 **Inteligencia Artificial y Automatización**  
@@ -30,4 +30,4 @@ Soy un Analista IT y desarrollador de software apasionado por la automatización
 ### 📫 Cómo contactarme:
 Puedes encontrarme por aquí en GitHub o en [LinkedIn](https://www.linkedin.com/in/lucas-castro-7b4003219/).
 
-¡Gracias por visitar mi perfil! 
+¡Gracias por tomarte el tiempo de ver mi perfil! 

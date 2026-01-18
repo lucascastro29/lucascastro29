@@ -6,14 +6,14 @@ Analista IT y desarrollador de software apasionado por la automatización de sis
 ### 💻 Tecnologías con las que trabajo:
 - 🧠 **Inteligencia Artificial y Automatización**  
   **Python**, aplicando **machine learning**, **Computer Vision con OpenCV**, **YOLO**, TensorFlow y generación de imágenes por IA.
+  Cuento con experienca en lenguajes como **javascript**, **TypeScript**, **Node**, **C++**, **Java**, **PHP**.  
+  También eh tenido que utilizar **Node-RED** para crear interfaces con flujos visuales.
+  Y adquiri la certificación como analista Genexus.
 
-
-- 🚀 **Desarrollo de Software**
+- 🚀 **Desarrollo de Software**:
   Mis fortalezas son **Python** con dos puntos de vista, realizando aplicaciones de escritorio para comunicación entre diversos sistemas y disminuyendo los tiempos en varios procesos.
   Y por otro lado trabajando mas en profundidad con la biblioteca de opencv, numpy, yolo en sus diversas versiones en basea a la complejidad y recursos disponibles, integrando soluciones de categorización con Tensorflow, computer vision y en otros aspectos.
 
-  Cuento con experienca en lenguajes como **javascript**, **TypeScript**, **Node**, **C++**, **Java**, **PHP**.  
-  También eh tenido que utilizar **Node-RED** para crear interfaces con flujos visuales.
 
 
 - 🌐 **Desarrollo Web**  

@@ -21,14 +21,14 @@ Analista IT y desarrollador de software apasionado por la automatización de sis
   Integrando con bases de datos, utilizando Sql, especificamente MySQL, pero habiando probado postgressSQL en menor medida.  
 
 ### 🔍 Me apasiona:
-- Buscando especilizarme y mejorar en problemas de computer vision y Explorar tecnologías de MLL.
+- Mejoras en problemas de computer vision, explorar tecnologías de MLL.
 - Automatizar tareas repetitivas y crear sistemas inteligentes.
-- Crear y manipular imágenes y videos con inteligencia artificial.
-- Desarrollar aplicaciones.
+- Generación y manipulación de imágenes y videos con inteligencia artificial.
+- Desarrollar aplicaciones que ataquen problemas concretos.
 
 ### 🤝 Estoy abierto a:
 - Colaboraciones en proyectos de IA y automatización.
-- Desarrollo de aplicaciones interesantes.
+- Desarrollo de aplicaciones interesantes y que cumplan una utilidad bien definida.
 - Nuevas ideas que involucren mejoras, automatización y soluciones a medida.
 
 ### 📫 Cómo contactarme:
